@@ -86,7 +86,9 @@ Screenshot from the notebook describing the model flow through run details
 
 
 ## Screen Recording
-Please find the link for the screencast.
+Please find the link for the screencast. 
+https://www.youtube.com/watch?v=fZ5Tm-wBvso
+
 
 ## Standout Suggestions
 *TODO (Optional):* This is where you can provide information about any standout suggestions that you have attempted.
